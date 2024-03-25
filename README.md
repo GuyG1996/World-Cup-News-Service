@@ -1,5 +1,5 @@
 
-# World-Cup-news-service
+# World_Cup_news_service
 ## Overview
 This project implements a World Cup news subscription service using the Stomp protocol. The server is implemented in Java with support for both TCP and Reactor design patterns. The client is implemented in C++. Clients can subscribe to channels, send reports, and receive reports from other clients on the same channel.
 
